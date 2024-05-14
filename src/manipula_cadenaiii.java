@@ -6,7 +6,7 @@ public class manipula_cadenaiii {
 		String alumnos1, alumnos2;
 		alumnos1= "daniel";
 		alumnos2 = "Daniel";
-		//EQUALSIGNORECASE inora si esta en mayuscula o minuscula 
+		//EQUALSIGNORECASE ignora si esta en mayuscula o minuscula 
 		boolean resultado = alumnos1.equalsIgnoreCase(alumnos2); 
 		System.out.println(resultado);
 		
