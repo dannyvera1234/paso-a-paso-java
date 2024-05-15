@@ -44,7 +44,7 @@ public class Areas {
 			
 		
 			double resultado =  Math.PI*(Math.pow(radio,2)) ;
-			System.out.printf( "%1.2f"+ resultado );
+			System.out.printf(  "el area del circulo es: " + resultado );
 			break;
 		default:
 			 System.out.println("ingrese un numero valido de las opciones a elegir");
