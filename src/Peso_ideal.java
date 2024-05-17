@@ -30,8 +30,7 @@ public class Peso_ideal {
 		peso = altura - 120;
 		}
 		System.out.println("tu peos es de " + peso);
-		
-		
+
 
 	}
 
